@@ -1,7 +1,3 @@
-Edit this file to add assembly instructions
+Instructions for the conversion are on the forum wiki
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+https://forums.maslowcnc.com/t/bosch-pof-1200-z-axis-convertion-guide/5154
