@@ -3,3 +3,5 @@ To get this kit just send 22.8 euro via paypal [paypal.](https://www.paypal.me/D
 This includes 15 EUR for the kit and 7,8 EUR for shipping which covers most of europe.
 
 If you want the kit and you're not from Europe contact me at dag_kinne at hotmail.com.
+
+I have paid (summer 2019), but have not received any communications nor products.
